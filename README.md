@@ -84,27 +84,53 @@ Core Principle: Zero-Bloat Architecture, Defense-in-Depth Security, Sub-850ms La
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌟 SYMIDIC AI Agency</h3>
+      <h3 align="center">🌟 SYMIDIC AI Platform</h3>
       <p align="center"><b>Autonomous Customer Support for Shopify Brands</b></p>
       <ul>
         <li><b>Live Production:</b> <a href="https://www.symidic.xyz">https://www.symidic.xyz</a></li>
-        <li><b>Highlights:</b> 3D Aceternity MacBook Pro scroll physics, velvet matte noise, live metrics count-up, and interactive AI customer support sandbox.</li>
-        <li><b>Stack:</b> Vercel Edge CDN, Custom 3D Physics Engine, Sub-850ms response latency, Google Search Console & AEO/GEO indexed.</li>
+        <li><b>Highlights:</b> 3D Aceternity MacBook Pro scroll, velvet matte noise, live metrics count-up, and interactive AI support sandbox.</li>
+        <li><b>Stack:</b> Vercel Edge CDN, Custom 3D Physics Engine, Sub-850ms latency SLA, Google Search Console verified.</li>
       </ul>
       <div align="center">
-        <a href="https://www.symidic.xyz"><img src="https://img.shields.io/badge/VIEW_LIVE-SYMIDIC.XYZ-00e5ff?style=for-the-badge" /></a>
+        <a href="https://github.com/abdulrehman-symidic/symidic-website"><img src="https://img.shields.io/badge/REPO-SYMIDIC_WEBSITE-00e5ff?style=for-the-badge" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 3-in-1 SEO / AEO / GEO Engine</h3>
+      <h3 align="center">🤖 Shopify AI Support Agent</h3>
+      <p align="center"><b>Production Autonomous 24/7 Support Engine</b></p>
+      <ul>
+        <li><b>Core Pipeline:</b> WISMO order lookup, sentiment guardrail, zero-hallucination policy RAG store, and human handoff.</li>
+        <li><b>Performance:</b> 78% autonomous deflection, sub-850ms response SLA, 100% automated test coverage.</li>
+        <li><b>Security:</b> HMAC-SHA256 Shopify webhook verification, prompt injection defense, and PII redactor.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/abdulrehman-symidic/shopify-ai-support-agent"><img src="https://img.shields.io/badge/REPO-SHOPIFY_AI_AGENT-25D366?style=for-the-badge" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ 3-in-1 SEO / AEO / GEO Engine</h3>
       <p align="center"><b>Generative Engine Optimization for Modern LLMs</b></p>
       <ul>
-        <li><b>Retrieval Target:</b> ChatGPT Search, Perplexity AI, Claude & Google AI Overviews.</li>
-        <li><b>Highlights:</b> Official <code>llms.txt</code> protocol compliance, automated FAQPage JSON-LD schema generation, and semantic citation structuring.</li>
+        <li><b>Target LLMs:</b> ChatGPT Search, Perplexity AI, Claude & Google AI Overviews.</li>
+        <li><b>Highlights:</b> Official <code>llms.txt</code> protocol generator, Schema.org FAQPage JSON-LD synthesizer, and AEO Readiness Auditor (0-100).</li>
         <li><b>Impact:</b> Direct conversational citations for commercial high-intent buyer searches.</li>
       </ul>
       <div align="center">
-        <a href="https://www.symidic.xyz/aeo-audit.html"><img src="https://img.shields.io/badge/INSPECT-AEO_AUDIT-7928ca?style=for-the-badge" /></a>
+        <a href="https://github.com/abdulrehman-symidic/seo-aeo-geo-engine"><img src="https://img.shields.io/badge/REPO-SEO_AEO_GEO_ENGINE-7928ca?style=for-the-badge" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ E-Commerce Returns Automation</h3>
+      <p align="center"><b>Autonomous RMA & Instant Size Exchange Pipeline</b></p>
+      <ul>
+        <li><b>Capabilities:</b> Zero-touch 30-day policy validation, instant prepaid return labels, and size exchange inventory reservation.</li>
+        <li><b>Integrations:</b> Native sync architecture for Gorgias, Zendesk, and Shopify Plus GraphQL.</li>
+        <li><b>Quality:</b> 100% unit tested RMA state machine and dispute triage.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/abdulrehman-symidic/ecommerce-returns-automation"><img src="https://img.shields.io/badge/REPO-RETURNS_AUTOMATION-EA4335?style=for-the-badge" /></a>
       </div>
     </td>
   </tr>
