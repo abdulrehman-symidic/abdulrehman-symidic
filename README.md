@@ -149,12 +149,12 @@ Core Principle: Zero-Bloat Architecture, Defense-in-Depth Security, Sub-850ms La
         <img src="https://streak-stats.demolab.com/?user=abdulrehman-symidic&theme=tokyonight&hide_border=true&background=05060a&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="100%" alt="GitHub Streak" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrehman-symidic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrehman-symidic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" width="100%" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrehman-symidic&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&text_color=94a3b8" width="70%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrehman-symidic&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&text_color=94a3b8" width="70%" alt="Top Languages" />
       </td>
     </tr>
   </table>
