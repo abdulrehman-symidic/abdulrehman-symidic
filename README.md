@@ -2,7 +2,7 @@
      CYBER WAVE DYNAMIC ANIMATED HEADER
      ================================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Abdul%20Rehman&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Lead%20AI%20Systems%20Architect%20%E2%80%A2%20SYMIDIC.xyz&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Abdul Rehman Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Abdul%20Rehman&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Lead%20AI%20Systems%20Architect%20%E2%80%A2%20SYMIDIC.xyz&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Abdul Rehman Header"/>
 </div>
 
 <!-- ================================================================
