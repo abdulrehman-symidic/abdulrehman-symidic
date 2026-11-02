@@ -35,7 +35,7 @@
   <a href="mailto:Contact@Symidic.xyz">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT@SYMIDIC.XYZ-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05060a" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abdulrehmanbala117-creator&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman-symidic&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -120,15 +120,15 @@ Core Principle: Zero-Bloat Architecture, Defense-in-Depth Security, Sub-850ms La
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=abdulrehmanbala117-creator&theme=tokyonight&hide_border=true&background=05060a&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=abdulrehman-symidic&theme=tokyonight&hide_border=true&background=05060a&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="100%" alt="GitHub Streak" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrehmanbala117-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrehman-symidic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" width="100%" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrehmanbala117-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&text_color=94a3b8" width="70%" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrehman-symidic&layout=compact&theme=tokyonight&hide_border=true&bg_color=05060a&title_color=00e5ff&text_color=94a3b8" width="70%" alt="Top Languages" />
       </td>
     </tr>
   </table>
