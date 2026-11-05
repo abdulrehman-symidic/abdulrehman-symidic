@@ -122,6 +122,20 @@ Core Principle: Zero-Bloat Architecture, Defense-in-Depth Security, Sub-850ms La
       </div>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">⚡ ClientForge AI OS</h3>
+      <p align="center"><b>Sovereign B2B Client Acquisition & Zero-Subscription Lead Engine</b></p>
+      <ul>
+        <li><b>Live Production:</b> <a href="https://clientforge-ai-os.vercel.app/app/">https://clientforge-ai-os.vercel.app/app/</a></li>
+        <li><b>Capabilities:</b> Google X-Ray B2B Lead Extractor, 2026 Deliverability & AI Spam Shield, Visual Kanban CRM & Retainer Contracts.</li>
+        <li><b>Architecture:</b> 100% Client-side sovereignty, hardware-locked license protection, and BYOK Gemini/OpenAI engine.</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/abdulrehman-symidic/clientforge-ai-os"><img src="https://img.shields.io/badge/REPO-CLIENTFORGE_AI_OS-06b6d4?style=for-the-badge" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🛡️ E-Commerce Returns Automation</h3>
       <p align="center"><b>Autonomous RMA & Instant Size Exchange Pipeline</b></p>
       <ul>
