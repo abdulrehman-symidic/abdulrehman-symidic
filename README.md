@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/WHATSAPP-DIRECT_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=05060a" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrehman-symidic/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05060a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05060a" alt="LinkedIn" />
   </a>
   <a href="mailto:Contact@Symidic.xyz">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT@SYMIDIC.XYZ-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05060a" alt="Email" />
